@@ -55,6 +55,13 @@ This is the **React frontend** for the Task Management System.
 4. App runs at: http://localhost:3000
 
 ----
+### Test Login Credentials
+
+Use the following test credentials to log in:
+
+- Username: admin
+- Password: Happy123
+
 
 ##** Note**
 The API is hosted at https://localhost:7025. If you're deploying or using a different port/IP, make sure to reflect that in the frontend configuration.
